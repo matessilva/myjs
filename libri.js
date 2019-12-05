@@ -34,28 +34,8 @@
       var Co2 = document.createElement("P");
 
 
-
-
-
-      //Termina aqui
-
-
-
-
-
-
-      /*      var contCar = document.createElement('div');
-           contCar.setAttribute('class', 'container-carro');
-           var NomeC = document.createElement('div');
-           NomeC.setAttribute('class', 'nomeIma');
-           var inforSup = document.createElement('div');
-           inforSup.setAttribute('class', 'informacoes inforSup');
-           var inforInf = document.createElement('div');
-           inforInf.setAttribute('class', 'informacoes inforInf'); */
-
-
       descri.innerHTML = "Esse carro é monstro de mais, se você pegar ele ganha de cara um brinde da helokit e um abarbie vem logo pegar esse caro, não deixe a oportunidade passart u dguri defove beargjakl"
-      foto.src = "car-log.jpg"
+      foto.src = "car-log.jpg";
       nome.innerHTML = item.modelo;
       motor.innerHTML = item.motor;
       cambio.innerHTML = item.cambio;
